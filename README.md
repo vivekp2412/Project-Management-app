@@ -2,7 +2,7 @@
 
 ## 🚀 Live Demonstraion
 
-- [Project Expo](https://jb-project-expo.netlify.app/)
+- [Project Expo](https://project-expo-vp.netlify.app/)
 
 ## Project Setup :
 
